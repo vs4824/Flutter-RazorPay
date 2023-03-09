@@ -6,11 +6,11 @@ This flutter plugin is a wrapper around our Android and iOS SDKs.
 
 The following documentation is only focused on the wrapper around our native Android and iOS SDKs. To know more about our SDKs and how to link them within the projects, refer to the following documentation:
 
-Android: "(https://razorpay.com/docs/checkout/android/)"
+Android: "https://razorpay.com/docs/checkout/android/"
 
-iOS: "(https://razorpay.com/docs/ios/)"
+iOS: "https://razorpay.com/docs/ios/"
 
-To know more about Razorpay payment flow and steps involved, read up here: "(https://razorpay.com/docs/)"
+To know more about Razorpay payment flow and steps involved, read up here: "https://razorpay.com/docs/"
 
 ## Prerequisites
 
@@ -20,7 +20,7 @@ To know more about Razorpay payment flow and steps involved, read up here: "(htt
 
 ### Installation
 
-This plugin is available on Pub: "(https://pub.dev/packages/razorpay_flutter)"
+This plugin is available on Pub: "https://pub.dev/packages/razorpay_flutter"
 
 Add this to dependencies in your app's pubspec.yaml
 
